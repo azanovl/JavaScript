@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Задача-1</title>
+    <script>
+        let tempCels = prompt('Enter temperature in Celsius');
+        let tempFahr = (9 / 5) * tempCels + 32;
+        alert(`Temperature in:\nCelsius - ${tempCels}\nFahrenheit - ${tempFahr}`);
+    </script>
+</head>
+<body>
+
+</body>
+</html>
